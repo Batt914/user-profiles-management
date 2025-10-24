@@ -1,8 +1,27 @@
-# Getting Started with Create React App
+# User Profiles Management – Frontend Drive Task
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App] 
+This project is a submission for the Software Development Engineer – Frontend drive test conducted by my college. It fulfills all the functional and visual requirements outlined in the task document using React and Bootstrap.
 
-## Available Scripts
+🚀 Tech Stack
+- Frontend Framework: React (with functional components and hooks)
+- Styling: Bootstrap 5 (responsive grid system, spacing, and typography)
+- State Management: React useState and useEffect
+- Data Storage: Local browser storage (no backend)
+- 
+
+## sorry for this video inconvenience this is a screan rotation problme 
+
+https://github.com/user-attachments/assets/092ec053-fc40-4768-bc2a-2a17d77ac015
+
+- Fully responsive layout using Bootstrap grid
+- UI spacing and font styles match the Figma design
+- Loaders and UI states implemented as per prototype
+- Local data storage for user profiles
+- Clean component structure and reusable styles
+
+
+
 
 In the project directory, you can run:
 
